@@ -16,4 +16,3 @@ sleep 5
 echo
 echo "Done. You should see kernel booting on switch soon"
 echo 
-echo "-//- kombos.org -//-"
